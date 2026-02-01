@@ -1,0 +1,8 @@
+Original Text:
+The cats are running faster and ate the mice in the houses
+
+After Stopword Removal + Lemmatization:
+['cat', 'run', 'faster', 'ate', 'mouse', 'house']
+
+Final Processed Sentence:
+cat run faster ate mouse house
